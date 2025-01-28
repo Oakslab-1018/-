@@ -2,7 +2,7 @@
 
 一个基于 vue3 + vite 的待办事项应用。
 
-后端仓库地址：
+后端仓库地址：https://github.com/weierliteln/ToDoList-BE.git
 
 # Bug
 
